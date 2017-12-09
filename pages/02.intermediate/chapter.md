@@ -1,12 +1,13 @@
 ---
 title: Intermediate
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
 ### Chapter 2
 
-# Intermediate
+# Middle
 
 Delve deeper into more **complex** topics
